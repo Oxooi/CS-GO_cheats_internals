@@ -1,0 +1,11 @@
+2023-03-10 16:30:50 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2023-03-10 16:30:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11188, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-03-10 16:30:56 *CRITICAL*   Injecting image 'C:\Users\faced\Documents\VS Projects\Internal\Release\Internal.dll'
+2023-03-10 16:35:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11188, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-03-10 16:35:02 *CRITICAL*   Injecting image 'C:\Users\faced\Documents\VS Projects\Internal\Release\Internal.dll'
+2023-03-10 16:35:53 *NORMAL*     Image 'C:\Users\faced\Documents\VS Projects\Internal\Release\Internal.dll' is already in the list
+2023-03-10 16:35:55 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11188, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-03-10 16:35:55 *CRITICAL*   Injecting image 'C:\Users\faced\Documents\VS Projects\Internal\Release\Internal.dll'
+2023-03-10 16:36:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11188, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2023-03-10 16:36:25 *CRITICAL*   Injecting image 'C:\Users\faced\Documents\VS Projects\Internal\Release\Internal.dll'
+
