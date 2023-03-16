@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\faced\Documents\GitHub\CS-GO_cheats_internals\SkinChanger External\SkinChanger\main.cpp(81,67): warning C4244: 'argument' : conversion de 'float' en 'const T', perte possible de données
+          with
+          [
+              T=int32_t
+          ]
+  Génération de code en cours
+  Previous IPDB not found, fall back to full compilation.
+  All 68 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Fin de la génération du code
+  SkinChanger.vcxproj -> C:\Users\faced\Documents\GitHub\CS-GO_cheats_internals\SkinChanger External\SkinChanger\Release\SkinChanger.exe
